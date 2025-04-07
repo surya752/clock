@@ -1,4 +1,4 @@
-![image alt](![image](https://github.com/user-attachments/assets/dc8fe527-0993-46aa-a639-62a856eac182)
+![image alt](![image](https://github.com/user-attachments/assets/dc8fe527-0993-46aa-a639-62a856eac182?raw-true)
 )
 # Getting Started with Create React App
 
