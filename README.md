@@ -1,5 +1,5 @@
 ![image alt](https://github.com/surya752/clock/blob/2e5f294e1a89b1ae398d685c6818014b52f55677/digital-clock.png?raw-true)
-)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
